@@ -1,0 +1,76 @@
+{
+  "nombre": "HODEI URRESTI",
+  "profesion": "INFORMATICO",
+  "experiencia_laboral": [
+    {
+      "puesto": "Entrenador de futbol y deporte escolar",
+      "lugar": "Tolosa",
+      "periodo": "2017 - 2023",
+      "descripcion": "Entrenador de niños entre 7 y 12 años."
+    },
+    {
+      "puesto": "Instalaciones eléctricas y de red",
+      "lugar": "Instituto Tolosaldea LHII.",
+      "periodo": "Diciembre 2019 - Febrero 2020",
+      "descripcion": "Instalación de torres eléctricas y de red para proporcionar electricidad e internet a las aulas."
+    },
+    {
+      "puesto": "Prácticas",
+      "empresa": "Quantasoft (Praga, República Checa)",
+      "periodo": "Marzo 2020 - Mayo 2020",
+      "descripcion": "Empresa de software que se dedica a programar y configurar programas de reconocimiento facial y datos biométricos."
+    },
+    {
+      "puesto": "Prácticas",
+      "empresa": "CDI Informatika (Tolosa, Gipuzkoa)",
+      "periodo": "Marzo 2023 - Mayo 2023",
+      "descripcion": "Tienda de componentes y desarrollo de soluciones informáticas."
+    },
+    {
+      "puesto": "Prácticas",
+      "empresa": "Ibernova (Donostia, Gipuzkoa)",
+      "periodo": "Marzo 2025 - Junio 2025",
+      "descripcion": "Partner tecnológico de la industria basada en el dato."
+    },
+    {
+      "puesto": "Monitor de ludoteca",
+      "lugar": "Colegio Herrikide",
+      "periodo": "Verano 2021/22/23/24/25",
+      "descripcion": "Responsable del cuidado y entretenimiento de niños de 3 a 6 años."
+    }
+  ],
+  "educacion": [
+    {
+      "titulo": "Sistemas microinformáticos y redes",
+      "institucion": "Instituto Tolosaldea LHII.",
+      "periodo": "2018-2020"
+    },
+    {
+      "titulo": "Administración de sistemas informáticos en red",
+      "institucion": "Instituto Tolosaldea LHII.",
+      "periodo": "2020-2023"
+    },
+    {
+      "titulo": "Desarrollo de aplicaciones multiplataforma",
+      "institucion": "Instituto Tolosaldea LHII.",
+      "periodo": "2023-2025"
+    }
+  ],
+  "logros": [
+    "Introducción a los primeros auxilios. Cruz Roja",
+    "Curso de formación de manipulador de alimentos en el sector de restauración-hostelería y campamentos. Lurberri",
+    "Monitor de tiempo libre infantil y juvenil. Gobierno Vasco",
+    "Piloto profesional de Drones. Aerocamaras"
+  ],
+  "idiomas": {
+    "euskera": "Nativo",
+    "espanol": "Nativo",
+    "ingles": "B2"
+  },
+  "habilidades": [
+    "Responsabilidad",
+    "Limpio y ordenado",
+    "Trabajo en equipo",
+    "Actitud positiva"
+  ]
+}
